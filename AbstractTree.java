@@ -26,3 +26,6 @@ public abstract class AbstractTree<E> implements Tree<E> {
 	}
 }
 //branchE edit
+
+//main branch edit
+
