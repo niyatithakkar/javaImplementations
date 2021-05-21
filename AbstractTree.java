@@ -25,4 +25,7 @@ public abstract class AbstractTree<E> implements Tree<E> {
 		else return 1+depth(parent(p));
 	}
 }
+//branchE edit
+
 //main branch edit
+
